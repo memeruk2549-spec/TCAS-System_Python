@@ -3,4 +3,4 @@
 
 
 # Project Python
-by Thawatchai
+Mr.Thawatchai Noosila
